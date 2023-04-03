@@ -1,4 +1,10 @@
                                                          Hi there, I'm Ozgur 👋
+                                                         
+- 🔭 I’m currently working on [ShoppingList](https://github.com/ozgursarki/ShoppingList)
+
+- 🌱 I’m currently learning and practising **MVVM + Clean Architecture**
+
+- 📫 How to reach me **ozgurdogansarki@gmail.com**
 
 
 [![Ozgur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgursarki)](https://github.com/ozgursarki/ozgursarki/edit/main/README.md)
