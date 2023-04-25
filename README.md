@@ -1,6 +1,6 @@
                                                          Hi there, I'm Ozgur 👋
                                                          
-- 🔭 I’m currently working on [ShoppingList](https://github.com/ozgursarki/JourneyNotes)
+- 🔭 I’m currently working on [JourneyNotes](https://github.com/ozgursarki/JourneyNotes)
 
 - 🌱 I’m currently learning and practising **MVVM + Clean Architecture**
 
